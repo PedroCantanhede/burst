@@ -61,7 +61,7 @@ Esse site foi desenvolvido na disciplina de desenvolvimento web do CEFET / RJ, m
 
 ### Estrutura do Projeto:
 
-![image](github/estrutura.PNG)
+![image](./github/estrutura.png)
 
 ## :rocket: Instalação
 
